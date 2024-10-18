@@ -10,25 +10,25 @@ CONFIG += c++11
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
 SOURCES += \
-    Bullet.cpp \
-    Enemy.cpp \
-    Fire.cpp \
-    Game.cpp \
-    Health.cpp \
-    Player.cpp \
-    Score.cpp \
-    Wall.cpp \
-    main.cpp
+    src/Bullet.cpp \
+    src/Enemy.cpp \
+    src/Fire.cpp \
+    src/Game.cpp \
+    src/Health.cpp \
+    src/Player.cpp \
+    src/Score.cpp \
+    src/Wall.cpp \
+    src/main.cpp
 
 HEADERS += \
-    Bullet.h \
-    Enemy.h \
-    Fire.h \
-    Game.h \
-    Health.h \
-    Player.h \
-    Score.h \
-    Wall.h
+    include/Bullet.h \
+    include/Enemy.h \
+    include/Fire.h \
+    include/Game.h \
+    include/Health.h \
+    include/Player.h \
+    include/Score.h \
+    include/Wall.h
 
 FORMS +=
 
