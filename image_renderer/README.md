@@ -6,11 +6,6 @@
 This project implements an off-screen image rendering pipeline using OpenGL and EGL, optimized for running on GPU hardware. The core functionality revolves around rendering triangles and applying color gradients using vertex and fragment shaders. The result is an image that is generated entirely using the graphics card, providing fast and efficient rendering for large datasets or complex visualizations.
 
 ![alt text](thumbnail.webp)
-### **Features**
-- **Off-Screen Rendering**: Uses EGL to create and manage an off-screen rendering context without requiring a physical display.
-- **Color Interpolation**: Implements smooth color gradients across vertices, blending colors like red, green, and blue.
-- **Triangle Rendering**: Supports basic triangle rendering using vertex data, with each vertex having its own position and color.
-- **Hex to RGBA Conversion**: Converts hex color strings into RGBA values, allowing flexible color customization.
 
 ## **Rendering Process**
 
