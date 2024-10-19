@@ -1,6 +1,6 @@
 ## Project Overview
 UDP DataGenerator is a real-time data generator that uses live charts to visualize and control data streams. It transmits data over UDP, allowing users to adjust parameters and immediately see the effects on the chart, making it ideal for testing and monitoring data communication. The charts allow users to control both single and multiple data streams simultaneously.
-
+![alt text](ui.gif)
 ## Key Features
 - **UDP Data Transmission**: Generates and sends data over UDP.
 - **Live Chart Visualization**: Real-time data display with adjustable parameters.

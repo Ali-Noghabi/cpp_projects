@@ -73,3 +73,8 @@ Once compiled, you can run the project as follows:
 ```
 
 By default, the program will generate an image based on the predefined vertex and color data. The image will be saved in the same directory as the executable.
+
+## **Example Result: Bathymetric Image**
+As an example of this GPU-based renderer, a Bathymetric Image was generated from real-world depth data.
+
+![alt text](output.jpg)
