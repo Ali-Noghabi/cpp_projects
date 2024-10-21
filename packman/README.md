@@ -9,5 +9,3 @@
 ![alt text](https://github.com/Ali-Noghabi/PackMan-C/blob/main/Image.png?raw=true)
 
 Hope you Enjoy it
-
-BY : Ali Abdollahian Noghabi
