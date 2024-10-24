@@ -1,0 +1,26 @@
+token                token_type           token_value         
+------------------------------------------------------
+puts                 ID                   1                   
+:                    delimiters           :                   
+function             keywords             function            
+void                 keywords             void                
+(                    delimiters           (                   
+s                    ID                   2                   
+:                    delimiters           :                   
+string               keywords             string              
+)                    delimiters           )                   
+;                    delimiters           ;                   
+main                 ID                   3                   
+:                    delimiters           :                   
+function             keywords             function            
+integer              keywords             integer             
+(                    delimiters           (                   
+)                    delimiters           )                   
+=                    operators            =                   
+{                    delimiters           {                   
+puts                 ID                   1                   
+(                    delimiters           (                   
+hello world          STRING               hello world         
+)                    delimiters           )                   
+;                    delimiters           ;                   
+}                    delimiters           }                   

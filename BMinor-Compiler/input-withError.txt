@@ -1,0 +1,7 @@
+puts: function void ( s: string );
+
+main: function integer () = {
+    puts("hello world");سلام
+    num: integer = 22;
+    num: integer = 23a;
+}
