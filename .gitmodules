@@ -1,0 +1,9 @@
+[submodule "ModbusQtClient"]
+	path = ModbusQtClient
+	url = https://github.com/Ali-Noghabi/ModbusQtClient.git
+[submodule "opcua-logger"]
+	path = opcua-logger
+	url = https://github.com/Ali-Noghabi/opcua-logger.git
+[submodule "modbus_tcp_viewer"]
+	path = modbus_tcp_viewer
+	url = https://github.com/Ali-Noghabi/modbus_tcp_viewer.git
